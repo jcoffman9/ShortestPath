@@ -1,0 +1,5 @@
+Number of vertices: 5
+Zero Inbound: [Stage 1, Basic]
+Self Edges: none
+Zero Outbound: [Muk, Tapu Koko]
+Heaviest weight: 1
